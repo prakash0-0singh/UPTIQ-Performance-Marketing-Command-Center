@@ -6,7 +6,7 @@ An end-to-end performance marketing analytics project connecting paid media, web
 
 ![UPTIQ Performance Marketing Command Center](assets/01_Executive_Overview.png)
 
-**[View Interactive Power BI Dashboard →]([YOUR_PUBLIC_POWER_BI_LINK](https://app.powerbi.com/groups/me/reports/c8f75b82-ca7d-41a8-a1f9-158d2a52b631/67cab52770ab7980633c?experience=power-bi))**
+**[View Interactive Power BI Dashboard →](https://app.powerbi.com/groups/me/reports/c8f75b82-ca7d-41a8-a1f9-158d2a52b631/67cab52770ab7980633c?experience=power-bi)**
 
 > **Note:** This is an independent portfolio project built using simulated datasets informed by publicly available information about UPTIQ and published marketing case studies. It does not contain UPTIQ's confidential or actual internal performance data.
 
